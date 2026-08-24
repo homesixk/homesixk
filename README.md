@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FACC15&height=220&section=header&text=Hammad%20Ali&fontSize=60&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%E2%80%94%20building%20clean%2C%20fast%2C%20well-crafted%20products&descAlignY=56&descSize=18&descColor=FACC15" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FACC15&height=220&section=header&text=Hammad%20Ali&fontSize=60&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Backend%20Developer%20%E2%80%94%20building%20fast%2C%20reliable%2C%20well-architected%20systems&descAlignY=56&descSize=18&descColor=FACC15" width="100%" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2600&pause=1000&color=FACC15&center=true&vCenter=true&width=560&lines=build+well.;ship+fast%2C+break+nothing.;clean+code+%3E+clever+code." alt="Typing SVG" />
 
@@ -16,20 +16,20 @@
 
 ## 🧭 About Me
 
-I'm a software engineer who cares about the details — clean interfaces, fast products, and code that's a pleasure to come back to. I like turning ambiguous problems into simple, well-built things.
+I'm a backend developer who cares about the details — reliable APIs, clean data models, and systems that hold up under real load. I like turning ambiguous problems into simple, well-architected services.
 
 ```txt
 const hammad = {
-  role: "Software Engineer",
-  focus: ["Next.js", "TypeScript", "Design Systems"],
+  role: "Backend Developer",
+  focus: ["Node.js", "PostgreSQL", "System Design"],
   currentlyBuilding: "https://portfolio-rose-omega-94.vercel.app",
-  funFact: "Ships UI faster than coffee gets cold",
+  funFact: "Ships APIs faster than coffee gets cold",
 };
 ```
 
 - 🔭 Currently building **[my portfolio](https://portfolio-rose-omega-94.vercel.app)** and shipping side projects
-- 🌱 Always sharpening my TypeScript, React, and backend fundamentals
-- 💬 Ask me about Next.js, developer tooling, or clean UI architecture
+- 🌱 Always sharpening my Node.js, databases, and system design fundamentals
+- 💬 Ask me about API design, databases, or backend architecture
 - ⚡ Fun fact: I redesign my own portfolio for sport
 
 <br/>
