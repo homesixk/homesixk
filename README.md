@@ -160,11 +160,11 @@ Smaller repos and experiments that don't need their own writeup yet live in the 
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=homesixk&theme=react-dark&hide_border=true&bg_color=00000000&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&area_color=22D3EE" width="100%" />
+<img src="https://ghchart.rshah.org/22D3EE/homesixk" width="100%" alt="contribution chart" />
 
 </div>
 
-<sub>the stats card + top-languages widget and the trophy case are left out — both maintainers' public demo deployments are currently paused on the free tier. not shipping broken image tags.</sub>
+<sub>the stats card + top-languages widget, the activity graph, and the trophy case are left out — all three maintainers' public demo deployments are currently paused or disabled on the free tier. not shipping broken image tags.</sub>
 
 <br>
 
